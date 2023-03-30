@@ -1,0 +1,138 @@
+
+/* for Big brown colour mountain*/
+
+
+
+@media (max-width: 1400px){ 
+  #hero #hills-back{
+    width: 87rem;
+    height: 40rem;
+  }
+}
+
+@media (max-width: 1200px){ 
+  #hero #hills-back{
+    width: 74.5rem;
+    height: 43rem;
+  }
+}
+
+
+@media (min-width: 1400px){ 
+  #hero #hills-back{
+    width: 100rem;
+    height: 40rem;
+  }
+}
+
+@media (max-width: 1024px){ 
+  #hero #hills-back{
+    width: 64rem;
+    height: 35rem;
+  }
+}
+
+
+@media (min-width: 770px) { 
+  #hero #hills-back{
+    height: 41rem;
+    width: 100%;
+  }
+}
+@media (max-width: 768px) { 
+  #hero #hills-back{
+    width: 100%;
+    height: 41rem;
+
+  }
+}
+
+
+/*  for Blue colour mountain*/
+
+
+
+@media (max-width: 850px){  
+  #hero #hills-front{
+    width: 20rem;
+  }
+
+  #hero #btn{
+    margin-left: 28.5rem;
+    margin-top: -25rem;
+  }
+}
+
+
+@media (max-width: 1200px){  
+  #hero #hills-front{
+    width: 30rem;
+    height: 20rem;
+  }
+
+}
+
+
+@media (min-width: 1400px){  
+  #hero #hills-front{
+    width: 50rem;
+    height: 20rem;
+  }
+
+  #hero #btn{
+    margin-left: 28.5rem;
+    margin-top: 219rem;
+    padding-top: 20rem;
+    position: fixed;
+  }
+}
+
+
+@media (max-width: 1024px){  
+  #hero #hills-front{
+    width: 21rem;
+    height: 22rem;
+    margin-top: 21rem;
+  }
+
+}
+
+
+
+
+@media (min-width: 950px) and (max-width: 1000px){  
+  #hero #hills-front{
+    width: 20rem;
+    height: 18rem;
+
+  }
+
+
+}
+
+
+@media (min-width: 770px) and (max-width: 950px){  
+  #hero #hills-front{
+    width: 28rem;
+    height: 15rem;
+    margin-top: 23.1rem;
+    margin-left: 15rem;
+  }
+
+}
+
+
+@media (max-width: 768px) { 
+  #hero #hills-front{
+    width: 20rem;
+    height: 10rem;
+    margin-left: 14rem;
+    margin-top: 27rem;
+    
+  }
+}
+
+
+
+
+

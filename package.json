@@ -1,0 +1,21 @@
+{
+  "name": "java-script-with-node-js",
+  "version": "1.0.0",
+  "description": "This is intro to node project by angela yeu",
+  "main": "index.js",
+  "scripts": {
+    "start": "4creating_and_deploying_Server.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "Harshal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pokemon": "^2.3.4",
+    "superheroes": "^3.0.0"
+  }
+}
